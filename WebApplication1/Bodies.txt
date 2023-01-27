@@ -1,0 +1,19 @@
+// Create
+{
+    "Name": "Name",
+    "Description": "Description"
+}
+
+
+// Delete & Read
+{
+    "Id": "862451b2-3b74-4078-f1e6-08daf98a716c"
+}
+
+// Update
+{
+    "Id": "079d0bea-5da7-486d-0320-08daf7d74015"
+    "Name": "NewName",
+    "Description": "NewDescription"
+}
+
